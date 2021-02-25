@@ -1,0 +1,8 @@
+D:\IIHT\API_Example\StandredApiExample.Entities\bin\Debug\netcoreapp2.2\StandredApiExample.Entities.deps.json
+D:\IIHT\API_Example\StandredApiExample.Entities\bin\Debug\netcoreapp2.2\StandredApiExample.Entities.dll
+D:\IIHT\API_Example\StandredApiExample.Entities\bin\Debug\netcoreapp2.2\StandredApiExample.Entities.pdb
+D:\IIHT\API_Example\StandredApiExample.Entities\obj\Debug\netcoreapp2.2\StandredApiExample.Entities.AssemblyInfoInputs.cache
+D:\IIHT\API_Example\StandredApiExample.Entities\obj\Debug\netcoreapp2.2\StandredApiExample.Entities.AssemblyInfo.cs
+D:\IIHT\API_Example\StandredApiExample.Entities\obj\Debug\netcoreapp2.2\StandredApiExample.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\API_Example\StandredApiExample.Entities\obj\Debug\netcoreapp2.2\StandredApiExample.Entities.dll
+D:\IIHT\API_Example\StandredApiExample.Entities\obj\Debug\netcoreapp2.2\StandredApiExample.Entities.pdb
